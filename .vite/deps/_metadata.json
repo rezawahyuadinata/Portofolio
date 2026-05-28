@@ -1,31 +1,31 @@
 {
-  "hash": "c9deaa26",
+  "hash": "1d207992",
   "configHash": "11fb61d0",
-  "lockfileHash": "b6c83cd7",
-  "browserHash": "50145c03",
+  "lockfileHash": "c89cd2b1",
+  "browserHash": "c247f675",
   "optimized": {
     "react-dom/client": {
       "src": "../../node_modules/react-dom/client.js",
       "file": "react-dom_client.js",
-      "fileHash": "50430230",
+      "fileHash": "de5703d0",
       "needsInterop": true
     },
     "react": {
       "src": "../../node_modules/react/index.js",
       "file": "react.js",
-      "fileHash": "4f416d91",
+      "fileHash": "e41c7fd4",
       "needsInterop": true
     },
     "react/jsx-dev-runtime": {
       "src": "../../node_modules/react/jsx-dev-runtime.js",
       "file": "react_jsx-dev-runtime.js",
-      "fileHash": "cf11afd1",
+      "fileHash": "cf5a3dea",
       "needsInterop": true
     }
   },
   "chunks": {
-    "react-Na5-BvaJ": {
-      "file": "react-Na5-BvaJ.js",
+    "react-CCBzENTu": {
+      "file": "react-CCBzENTu.js",
       "isDynamicEntry": false
     }
   }
